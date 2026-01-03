@@ -5,10 +5,16 @@
 __pycache__/
 *.pyc
 
-# build and more
+# build and distribution
 build/
 dist/
-mp3_player.spec
+*.spec
 
-# private folders
+# private folders / sensitive files
 *.log
+passwords.json
+key.key
+
+# IDE folders (optional)
+.vscode/
+.idea/
