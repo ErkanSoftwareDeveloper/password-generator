@@ -1,0 +1,14 @@
+# macOS secret folders
+.DS_Store
+
+# python cache
+__pycache__/
+*.pyc
+
+# build and more
+build/
+dist/
+mp3_player.spec
+
+# private folders
+*.log
