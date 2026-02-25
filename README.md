@@ -1,11 +1,11 @@
-# 🔐 Password Generator & Manager
+#  Password Generator & Manager
 
 A simple and secure **password generator and manager desktop application** built with **Python** and **Tkinter**.
 This project focuses on generating strong passwords, storing them securely with encryption, and managing them easily.
 
 ---
 
-## ✨ Features
+##  Features
 
 * Generate strong passwords with:
 
@@ -20,7 +20,7 @@ This project focuses on generating strong passwords, storing them securely with 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python 3**
 * **Tkinter** – standard Python GUI library
@@ -29,7 +29,7 @@ This project focuses on generating strong passwords, storing them securely with 
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository:
 
@@ -61,7 +61,7 @@ python password.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 password-manager/
@@ -75,14 +75,14 @@ password-manager/
 
 ---
 
-## 📸 Video
+##  Video
 
 ![2026-01-1111-12-01-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6e849fce-d321-4548-8e50-47dba7e7b3a2)
 
 
 ---
 
-## 🚀 Possible Improvements
+##  Possible Improvements
 
 * Master password protection
 * Search/filter saved passwords
@@ -93,6 +93,6 @@ password-manager/
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for **educational and personal use**.
